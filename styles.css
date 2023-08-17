@@ -38,9 +38,12 @@
   
   [data-button-delete] {
     margin-left: .5rem;
+    width: 50px;
   }
   
-  button {
+  [data-add-todo] {
     cursor: pointer;
     height: 200px;
   }
+
+  
